@@ -1,0 +1,13 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.pyo
+*.so
+*.dylib
+*.dll
+*.egg-info/
+*.egg
+.idea/
+.vscode/
